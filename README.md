@@ -119,7 +119,9 @@ This project is licensed under the MIT License
 
 ## Acknowledgement
 
-Special thanks to the instructors and peers who provided valuable feedback and guidance throughout this project.
+Course Instructors - Data 1202.
+
+Online Python documentation and tutorials.
 
 
 
